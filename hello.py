@@ -3,6 +3,7 @@ def greet(name):
     return f"Hello, {name}!"
 
 if __name__ == "__main__":
-    name = input("What is your name? ")
+    name = 'Giri'
     message = greet(name)
     print(message)
+    print("Greeting complete.")
