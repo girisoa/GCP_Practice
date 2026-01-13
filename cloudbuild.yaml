@@ -1,4 +1,4 @@
-  steps
+steps:
 - name: 'python'
   args: ['python3', 'hello.py']
 
