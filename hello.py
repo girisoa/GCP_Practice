@@ -7,3 +7,4 @@ if __name__ == "__main__":
     message = greet(name)
     print(message)
     print("Greeting complete.")
+    print("Greeting complete.")
